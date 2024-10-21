@@ -1,3 +1,5 @@
+#creates a visual representation of the mandelbrot set using recursion, limited zoom
+
 import numpy as np
 import matplotlib.pyplot as plt
 
