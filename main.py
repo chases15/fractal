@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-#MANDELBROT SET
-
 def mandelbrot(c, max_i):
   z = 0
   for i in range(max_i):
